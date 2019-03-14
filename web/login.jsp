@@ -8,7 +8,7 @@
     </head>
     <body>
         <div id="container1">
-            <h1>Sing in</h1>
+            <h1>Sign in</h1>
             <form  id="form1">
                 <img src="images/userlogin.jpg" alt=""/>
                 <input type="text" name="" placeholder="Username"/>
@@ -22,7 +22,7 @@
 
         <div id="container2">
             <form id="form2">
-                <input type="submit" value="Crar cuenta"/>
+                <input type="submit" value="Crear cuenta"/>
             </form>
         </div>
     </body>
